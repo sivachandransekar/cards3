@@ -1,0 +1,41 @@
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing:border-box;
+}
+.container{
+	
+	 background-color:#F5F5DC;
+	 padding: 30px;
+	 height:550px;
+}
+.imgdiv{
+	width:300px;
+	height:300px;
+	border:4px solid #ffffff;
+	border-radius:50%;
+	margin:0 auto;
+}
+.imgdiv img{
+	width: 100%;
+    height: 100%;
+	border-radius: 50%;
+}
+.container h1, p{
+	 text-align:center;
+}
+.container h1{
+	 padding-top:25px;
+	 font-weight: 600;
+	 font-size:35px;
+}
+.productdiv,.contactpara{
+	  padding-top:20px;
+	
+}
+.productdiv{
+color: #5A5A5A;
+}
+.container p{
+	font-size:16px;
+}
